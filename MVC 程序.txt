@@ -1,0 +1,20 @@
+1. 建立空白 asp.net 專案<br />
+2. 加入新資料夾 Content<br />
+3. 在 View 底下加入 Home , Shared 資料夾<br />
+4. 在 Home 下建立 View Index <br />
+5. 如果不使用Index，必須在 AppStart 下的 RouteConfig.cs<br />
+6. 在 controllers 下建立控制項 建立 homecontroller.cs<br />
+7. Shared 下建立 View ,_Layout<br />
+8. Views 下 建立 View _ViewStart.cshtml<br />
+9. 有資料傳遞需求頁面，建立 Model<br />
+10. @Htmp Helper 指令教學 Url:<br />
+11. Razor 指令教學 Url:<br />
+12. 盡量少用 gridview ， Table 行數建議小於100,若超過以 DIV  替代.<br />
+13. bootstrap css 範例 https://getbootstrap.com/docs/4.5/examples/<br />
+ 
+	
+概念知識偏序運用於虛擬社群經營分析 - 以Mobile01旅遊美食討論區為例
+ 
+1. 專利發明人:高電流離子植入機的監控晶片監控充電現象的方法 Patent CN1706984A，Taiwan Patent 250599
+2. 專利發明人:氮化矽層的形成方法United States Patent 007229502B2
+03-265-4719
